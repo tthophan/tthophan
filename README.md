@@ -1,3 +1,11 @@
+<style>
+  /* Remove borders around table cells */
+  table,
+  td {
+    border: none;
+  }
+</style>
+
 <h3 align="center">Hi Bro👋</h3>
 <p align="center">
 <a target="_blank" href="https://twitter.com/tth0phan">

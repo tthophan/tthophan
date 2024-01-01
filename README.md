@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <h3 align="center">Hi Bro👋</h3>
 <p align="center">
 <a target="_blank" href="https://twitter.com/tth0phan">

@@ -10,7 +10,7 @@
 <hr>
 <h3 align="center">Show me your cards</h3>
 <br>
-<table align="center">
+<table align="center" style="border-collapse: collapse;">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
@@ -75,7 +75,7 @@
 
 <br>
 
-<table align="center">
+<table align="center" style="border-collapse: collapse;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=tthophan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />

@@ -1,9 +1,7 @@
 <style>
-  /* Remove borders around table cells */
-  table,
-  td {
-    border: none;
-  }
+td, th {
+   border: none!important;
+}
 </style>
 
 <h3 align="center">Hi Bro👋</h3>
